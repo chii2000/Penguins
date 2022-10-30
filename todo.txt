@@ -1,0 +1,19 @@
+List of things to do (please edit this it's just a quick mockup)
+
+Main Loop - sort of done - Kacper Wojakowski / Andrzej Płatek
+
+Interactive Mode - partially done - Andrzej Płatek
+  Displaying the Board - not done - placeholder by Kacper Wojakowski
+
+Automatic Mode - simple version complete - Kacper Wojakowski
+  Checks if any moves are possible, selects a random penguin that can move and tries to find a move that will give the highest score.
+
+File Handling - finished - Kacper Wojakowski
+  Saving to file
+  Loading from file
+
+Variable Structure - mostly done, needs only some tweaks - Kacper Wojakowski
+
+Board Generation - done - Kacper Wojakowski
+
+etc...
